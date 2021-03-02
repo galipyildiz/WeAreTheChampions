@@ -19,3 +19,8 @@ EF6 CodeFirst Color-Player-Team-Match
 - Listview kullanımı
 - Datagridview kullanımı
 - IComparable (sort method için) match classı içerisinde.
+## Kaynaklar:
+- https://dyclassroom.com/csharp-project/how-to-convert-a-color-image-into-red-green-blue-image-in-csharp-using-visual-studio
+- https://www.entityframeworktutorial.net/code-first/inverseproperty-dataannotations-attribute-in-code-first.aspx
+- https://stackoverflow.com/questions/5559043/entity-framework-code-first-two-foreign-keys-from-same-table
+- https://stackoverflow.com/questions/3801275/how-to-convert-image-to-byte-array
