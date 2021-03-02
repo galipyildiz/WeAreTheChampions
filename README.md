@@ -1,4 +1,4 @@
-# WeAreTheChampions
+# WeAreTheChampions (Veriler için WACDb.bak dosyasını yükleyiniz.)
 EF6 CodeFirst Color-Player-Team-Match 
 ## Amaç:
 - Futbol maçları oluşturmaktır. Maçlar oluşturulurken oyuncular,renkler,takımlarda kullanıcı tarafından oluşturulur. 
